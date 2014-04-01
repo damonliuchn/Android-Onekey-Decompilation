@@ -26,7 +26,7 @@ Android-Batch-Pack 是apk一键反编译工具，只需要将apk拖拽到decompi
 ------
 ##欢迎批评指正
 
-博客：http://blog.csdn.net/tomblog
+博客：http://blog.csdn.net/masonblog
 邮箱：MasonLiuChn@gmail.com
 
 
