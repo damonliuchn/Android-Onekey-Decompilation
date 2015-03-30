@@ -6,6 +6,8 @@
 
 ## 什么是 Android-Onekey-Decompilation
 
+此项目只适用于Window平台并且此项目不再更新维护，推荐使用我的另一个项目跨平台反编译工具 DecompileApk https://github.com/MasonLiuChn/DecompileApk
+
 Android-Batch-Pack 是apk一键反编译工具，只需要将apk拖拽到decompile.bat上即可，会将apk反编译成jar并用jadgui自动打开，反编译后的xml直接可查看，反编译后会自动提取Androidmanifest.xml里的版本号、友盟渠道标识、会直接显示该apk的签名信息。
 
 
